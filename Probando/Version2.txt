@@ -1,1 +1,3 @@
+Test Conflict Version 2
 Segunda version
+
